@@ -1,13 +1,5 @@
 # JS_Functions
 
-re:educate group I
-functions
-lasha gonjilashvili
-•
-Yesterday
-100 points
-Due Tomorrow, 5:00 PM
-ყველა შესაძლო ვარიანტი დაჰენდლეთ თითოეული ფუნქციისთვის
 
 script.js
 Javascript
